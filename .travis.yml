@@ -1,2 +1,4 @@
 language: go
 script: go test 
+dist: xenial
+sudo: required
